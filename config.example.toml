@@ -1,0 +1,6 @@
+[database]
+url = "./test.db"
+
+[github]
+client_id = ""
+client_secret = ""
